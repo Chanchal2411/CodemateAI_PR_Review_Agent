@@ -66,8 +66,7 @@ It automatically analyzes code changes, provides feedback, and assigns a **quali
 
 ## 📹 Demo
 
-🎥 Watch Demo Video  
-🌐 Try Live App  
+🎥 Watch Demo Video : https://drive.google.com/file/d/1JGWGMxrcpGYxufCdgqJ3WxJGt7gsGWSM/view?usp=drive_link 
 
 ---
 
