@@ -17,7 +17,6 @@ It automatically analyzes code changes, provides feedback, and assigns a **quali
 ## ⚡ Possible Enhancements
 - Inline review comments (GitHub/GitLab style)  
 - AI-driven performance/security suggestions  
-- CI/CD pipeline integration for **automated pre-merge checks**  
 
 ---
 
